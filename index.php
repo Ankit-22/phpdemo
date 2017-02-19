@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>News</title>
+<title>PHP Demo</title>
 <style>
 body, html {
 	width: 100%;
